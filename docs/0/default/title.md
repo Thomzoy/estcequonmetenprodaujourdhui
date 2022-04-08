@@ -1,3 +1,3 @@
-Un jeudi ?
+Un **lundi** ?
 
 Oh je ne sais pas ...

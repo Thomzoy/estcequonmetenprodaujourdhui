@@ -1,3 +1,3 @@
-Un dimanche ?
+Un **jeudi** ?
 
 Oh je ne sais pas ...

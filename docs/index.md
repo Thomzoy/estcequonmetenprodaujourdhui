@@ -4,4 +4,4 @@
   <img width="600" src="{{image}}">
 </p>
 
-<center><h2>{{title}}</h2></center>
+<center><div markdown>{{title}}</div></center>

@@ -1,3 +1,3 @@
-Un samedi ?
+Un **vendredi** ?
 
 Oh je ne sais pas ...

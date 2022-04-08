@@ -15,7 +15,7 @@ def define_env(env):
         files = glob.glob(os.path.join(pick, "*"))
 
         for f in files:
-            if f.endswith(".txt"):
+            if f.endswith(".md"):
                 with open(f, "r") as title:
                     title_str = title.read()
             else:
